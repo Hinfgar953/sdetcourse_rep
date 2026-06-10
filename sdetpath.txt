@@ -1,1 +1,3 @@
-hello this is a file created on humberto's branch
+hello this is a file created on humberto's branch2 updated fro merge conflict via main branch2
+hello
+conflict solved
